@@ -10,4 +10,5 @@
 | [origamify](https://github.com/Noptus/origamify) | How to origami anything | ⚪ Side quest |
 
 **Stack:** Python · TypeScript · LLMs · Shell
+
 **From:** Paris
