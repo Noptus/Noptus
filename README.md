@@ -1,5 +1,5 @@
 
-## I build Agents for Health and Finance
+## I build Agents and Systems for Health and Finance
 
 | Repo | Mission | Status |
 |------|---------|--------|
